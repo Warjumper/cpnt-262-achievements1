@@ -17,6 +17,6 @@ console.log(`wallet:${wallet}, wallet after purchase:${walletAfter}`);
 
 
 let account = 3;
-const accountAfter = ++account;
+const accountAfter = -+account;
 
-console.log(`account:${account}, account after:${accountAfter}`);
+console.log(`account balance:${account}, account balance after purchase:${accountAfter}`);
