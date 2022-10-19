@@ -1,3 +1,9 @@
+# cpnt-262-achievements1
+cpnt-262-achievements1
+
+### Proof of Work (tutorial)
+By Jesse Horner
+
 Code attributions;
 
 Tutorial follow along;
